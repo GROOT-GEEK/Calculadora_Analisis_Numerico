@@ -1,0 +1,1 @@
+# Calculadora_Analisis_NumericoCancel changes
